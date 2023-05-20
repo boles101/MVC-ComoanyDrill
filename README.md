@@ -1,4 +1,4 @@
-# MVC-ComoanyDrill
+# MVC-CompanyDrill
 This Git repository contains a company project developed using the Model-View-Controller (MVC) architectural pattern. The project focuses on managing various components such as Employees, Departments, Roles, and Users.
 
 The project follows a three-tier architecture, consisting of the Business Logic Layer (BLL), Data Access Layer (DAL), and Presentation Layer (PL).
